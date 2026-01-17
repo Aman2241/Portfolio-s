@@ -8,7 +8,7 @@ const Sidebar = () => {
                 {/* Profile Header */}
                 <div className="flex flex-col items-start space-y-4">
                     <div className="w-24 h-24 rounded-full bg-gray-300 overflow-hidden border-2 border-brand-dark">
-                        <img src="/profile.jpg" alt="Profile" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
+                        <img src={`${import.meta.env.BASE_URL}profile.jpg`} alt="Profile" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-300" />
                     </div>
 
                     <div>
