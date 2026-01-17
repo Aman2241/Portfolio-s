@@ -2,6 +2,8 @@
 
 A brutally accessible, pixel-perfect, and performant portfolio website built with React, Vite, and Tailwind CSS (v4).
 
+**Live Demo:** [https://Aman2241.github.io/Portfolio-s/](https://Aman2241.github.io/Portfolio-s/)
+
 ![Portfolio Preview](/public/profile.jpg)
 
 ## 🚀 Features
